@@ -21,5 +21,5 @@ Bu botu kendi sunucunuzda veya bilgisayarınızda çalıştırmak için sistemin
 
 1. Projeyi bilgisayarınıza klonlayın veya indirin:
    ```bash
-   git clone [https://github.com/Renterq/stray-davet-botu.git](https://github.com/KULLANICI_ADIN/stray-davet-botu.git)
-   cd stray-davet-botu
+   git clone [https://github.com/Renterq/Stray-invite-bot.git](https://github.com/Renterq/Stray-invite-bot.git)
+   cd Stray-invite-bot
