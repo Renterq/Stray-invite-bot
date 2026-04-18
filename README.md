@@ -3,8 +3,6 @@
 Bu proje, Discord üzerinden komut alarak bir Minecraft sunucusunda (özellikle BungeeCord ağlarındaki alt sunucularda) 7/24 AFK bekleyip istenilen komutları çalıştıran gelişmiş bir entegrasyon botudur. 
 
 "Alihlar" ekibi için özel olarak tasarlanmış olup, 
-ineflayer ve Discord.js kütüaneleri
-
 ## ✨ Özellikler
 
 * **🛡️ 7/24 AFK Modu:** Sunucuya bir kez girer, belirlenen alt sunucuya (örn: NethPot) geçer ve çıkmadan bekler.
